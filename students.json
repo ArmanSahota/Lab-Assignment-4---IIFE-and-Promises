@@ -1,0 +1,24 @@
+{"students":[
+    {"name": "John Doe", "age": 22, "grade": "Senior", "major": "Computer Science"},
+    {"name": "Jane Smith", "age": 16, "grade": "Junior", "major": "Biology"},
+    {"name": "Robert Johnson", "age": 21, "grade": "Sophomore", "major": "Physics"},
+    {"name": "Emily Davis", "age": 23, "grade": "Senior", "major": "Psychology"},
+    {"name": "Michael Brown", "age": 19, "grade": "Freshman", "major": "Chemistry"},
+    {"name": "Olivia White", "age": 15, "grade": "Senior", "major": "Mathematics"},
+    {"name": "Daniel Taylor", "age": 20, "grade": "Junior", "major": "History"},
+    {"name": "Sophia Miller", "age": 22, "grade": "Senior", "major": "English"},
+    {"name": "Matthew Wilson", "age": 21, "grade": "Junior", "major": "Economics"},
+    {"name": "Ava Garcia", "age": 20, "grade": "Sophomore", "major": "Political Science"},
+    {"name": "Ethan Martinez", "age": 23, "grade": "Senior", "major": "Sociology"},
+    {"name": "Emma Anderson", "age": 22, "grade": "Senior", "major": "Art"},
+    {"name": "William Jackson", "age": 21, "grade": "Junior", "major": "Geology"},
+    {"name": "Isabella Thomas", "age": 20, "grade": "Sophomore", "major": "Physics"},
+    {"name": "Liam Robinson", "age": 24, "grade": "Senior", "major": "Environmental Science"},
+    {"name": "Eve Davis", "age": 25, "grade": "Senior", "major": "Computer Science"},
+    {"name": "Frank Wilson", "age": 26, "grade": "Senior", "major": "Computer Science"},
+    {"name": "Grace Thomas", "age": 19, "grade": "Senior", "major": "Computer Science"},
+    {"name": "Harry Jackson", "age": 19, "grade": "Senior", "major": "Computer Science"},
+    {"name": "Ivy White", "age": 29, "grade": "Senior", "major": "Computer Science"},
+    {"name": "Jack Harris", "age": 18, "grade": "Senior", "major": "Computer Science"}
+]
+}
